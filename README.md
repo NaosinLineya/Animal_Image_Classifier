@@ -130,5 +130,5 @@ This project is the second in a series of progressively complex deep learning im
 ## Author
 
 *[Naosin Tabassum Lineya]*
-*[Jahangirnagar Univarsity]*
+*[Jahangirnagar University]*
 *[lineyanaosin@gmail.com]*
